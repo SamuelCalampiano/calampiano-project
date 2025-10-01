@@ -1,20 +1,21 @@
 function name() {
     
-}  login()}
+}  login()
 //Email: samcalampiano3@gmail.com //  Error message:Your email is invalid
 //password Samuel777 // Error message:Your email is invalid
 
      let email = document.getElementaryById ("email").ariaValue
      let password = document.getElementaryById ("password").value
 
-     console.log("You Enter:"+ " + " email );
-     console.log("You Enter"+ " + " pass);
+     console.log("You Enter:"+ "  " + email );
+     console.log("You Enter"+ "  " + password);
 
-     If (email==="")
+     If (email== "samcalampiano3@gmail.com")(
+
        console.log("TAMA ANG YUNG EMAIL")
-)else (
+)else(
      console.log("Mali ang yung email"))
-)
+
 
      
     
